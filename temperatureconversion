@@ -12,3 +12,5 @@ elif unit == "C":
 
 else:
     print(f"The {unit} is not valid")
+
+print("Thank you")
