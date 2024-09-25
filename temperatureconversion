@@ -1,0 +1,14 @@
+temp = int(input("Enter the temperature: "))
+unit = input("Choose the unit 'C' for Celcius and 'F' for Farenheight: ")
+
+if unit == "F":
+    temp = ((temp * 9) / 5) + 32
+    unit = "Farenheight"
+    print(f"The temperature is {round(temp, 2)} {unit}")
+elif unit == "C":
+    temp = ((temp - 32) * 5 / 9)
+    unit = "Celcius"
+    print(f"The temperature is {round(temp, 2)} {unit}")
+
+else:
+    print(f"The {unit} is not valid")
