@@ -6,6 +6,6 @@ In this project, I'm making the following codings:
 2. Weight Conversion
 3. Temperature Conversion
 4. Email Slicer
-5. 
+5. Shopping Cart
 
 I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
