@@ -7,5 +7,6 @@ In this project, I'm making the following codings:
 3. Temperature Conversion
 4. Email Slicer
 5. Shopping Cart
+6. Countdown timer
 
 I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
