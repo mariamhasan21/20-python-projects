@@ -2,7 +2,7 @@ food = []
 price = []
 total = 0
 while True:
-    foods = input("What foods would you like: ")
+    foods = input("What foods would you like or press 'q' to quit: ")
     if foods.lower() == "q":
         break
     else:
