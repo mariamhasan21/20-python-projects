@@ -10,7 +10,9 @@ In this project, I'm making the following codings:
 6. Countdown timer
 7. Compound Interest
 8. Quiz Game
-9. Concession stand program
-10. Number guessing program
+9. Concession stand 
+10. Number Guessing
+11. Rock, paper, and scissor
 
-I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
+
+# I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
