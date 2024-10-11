@@ -13,6 +13,7 @@ In this project, I'm making the following codings:
 9. Concession stand 
 10. Number Guessing
 11. Rock, paper, and scissor
+12. Dice Roller
 
 
 Ps. I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
