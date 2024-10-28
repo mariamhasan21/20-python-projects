@@ -1,6 +1,7 @@
 # 20-python-projects
-The short programs created on this repository are inspired by Bro Code for my learning purposes.
-In this project, I'm making the following codings:
+The short programs created on this repository are inspired by Bro Code for my learning purposes. I am uploading the programs after learning from BroCode and using my own inputs to make them even better with better logic and usability. 
+
+The following programs are:
 
 1. Calculator
 2. Weight Conversion
@@ -14,6 +15,3 @@ In this project, I'm making the following codings:
 10. Number Guessing
 11. Rock, paper, and scissor
 12. Dice Roller
-
-
-Ps. I will come from time to time on this repository to update my coding after I have a better understanding of what I am writing
