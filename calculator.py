@@ -1,3 +1,4 @@
+#A simple calculator program to perform addition, subtraction, multiplication, or division with two numbers
 print("-----------------------Welcome to the Calculator-----------------------")
 print("-----------------------------------------------------------------------")
 running = True
