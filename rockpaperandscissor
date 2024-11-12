@@ -1,3 +1,5 @@
+# Rock Paper & Scissor
+# A simple rock-paper-scissors game in Python where the player competes against the computer, and the game tracks the number of rounds played
 import random
 options = ("rock","paper","scissor") #used tuple to make sure the user can't change the values
 running = True #determines the game
