@@ -1,26 +1,38 @@
 import random
-options = ("rock", "paper", "scissor")
-running = True
-times = 0
+options = ("rock","paper","scissor") #used tuple to make sure the user can't change the values
+running = True #determines the game
+times = 0 
+
 while running:
+
     player = None
     computer = random.choice(options)
-    while player not in options:
-        times += 1
+
+    while player not in options: #if the player don't give valid value there will be a loop asking to pick a value from the tuple
+        times += 1 #keep on incrementing as long as the player plays the game
         player = input("Pick one (rock, paper, or scissor): ")
         
+    print("-----------------------")    
     print(f"Player = {player}")
     print(f"Computer = {computer}")
+    print("-----------------------")  
+
     if player == computer:
         print("It's a tie!")
+
     elif player == "rock" and computer == "paper":
         print("You lose!")
+
     elif player == "scissor" and computer == "rock":
         print("You lose!")
+
     elif player == "rock" and computer == "scissor":
         print("You win!")
+
     else:
         print("You lose")
+
+    print("-----------------------")
     if not input("Play again (y/n): ").lower() == "y":
         running = False
 
